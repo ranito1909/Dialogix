@@ -1,0 +1,11 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local configuration file (e.g., Django settings file)
+.env
+
+# Python virtual environment
+venv/

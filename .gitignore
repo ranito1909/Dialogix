@@ -1,0 +1,9 @@
+# Ignore specific files based on paths
+**/google_storage_api.json
+**/googleApis.json
+**/scrape_and_embed.py
+**/semi.py
+**/APIShit.py
+**/Flask_dialogix.py
+**/dialogix.py
+**/scrape_and_embed_use_tmp.py
